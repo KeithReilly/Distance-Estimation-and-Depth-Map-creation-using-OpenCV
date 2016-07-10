@@ -1,0 +1,28 @@
+############################################################################################
+## All the files inside the source-code folder were last built on Sat Apr 9 20:14:53 2016 ##
+############################################################################################
+
+Keith_Projects_GUI - Folder
+	Keith_Project_GUI.pro - File
+	
+Headers - Folder
+	functions.h - File
+
+	mainwindow.h - File
+
+	openCVCalibration.h - File
+
+	openCVFunctions.h - File
+
+Sources - Folder
+	main.cpp - File
+
+	mainwindow.cpp - File
+
+Forms - Folder
+	mainwindow.ui - File
+
+
+Keith_Projects_GUI-build-desktop-Qt_4_8_2__System__Release - Folder
+	This folder stores all the extra files that QT creates, when building my project. 
+	Things like the makeFile etc.
